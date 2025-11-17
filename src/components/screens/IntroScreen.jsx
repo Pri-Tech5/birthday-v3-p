@@ -20,7 +20,7 @@ export default function IntroScreen({ onNext }) {
                         }}>
                         A Pretty Little Lady was born today, 20 years ago!
                     </h1>
-                    <p className="mt-4 text-xl text-pink-200">Yes, it’s YOU!🫵🏻 </p>
+                    <p className="mt-4 text-xl text-pink-200">Yes, it’s YOU! 👀 </p>
                 </div>
 
                 <div className="mt-8">
