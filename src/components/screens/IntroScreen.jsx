@@ -28,7 +28,7 @@ export default function IntroScreen({ onNext }) {
                         onClick={() => { onNext?.() }}
                     >
                         <Gift size={20} />
-                        Start the surprise
+                        Let's start the surprise 😶‍🌫️
                     </GradientButton>
                 </div>
             </div>
